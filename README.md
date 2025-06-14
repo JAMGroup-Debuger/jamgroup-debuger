@@ -1,16 +1,28 @@
-## Hi there 👋
+# JAMGroup-Debugger
 
-<!--
-**JAMGroup-Debuger/jamgroup-debuger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the JAMGroup Debugger repository! This project hosts a simple website built to showcase the JAMGroup AI Bot 7 (1) and associated performance data.
 
-Here are some ideas to get you started:
+## Website
+The live site is hosted via GitHub Pages and can be viewed at: [https://jamgroup-debugger.github.io](https://jamgroup-debugger.github.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contents
+- `index.html`: The main webpage featuring the JAMGroup AI Bot 7 (1) and performance details.
+- `performance_chart.png`: Image displaying performance data.
+- `sell_setup.png`: Image related to the setup or configuration.
+
+## Purpose
+This repository serves as a debugging and demonstration platform for JAMGroup associates, highlighting the AI bot's capabilities and performance metrics.
+
+## Getting Started
+1. Clone the repository: `git clone https://github.com/JAMGroup-Debugger/jamgroup-debugger.git`
+2. Open `index.html` in a browser to view locally, or visit the live site link above.
+
+## Contributions
+Feel free to fork this repository, suggest improvements, or report issues via the [Issues](https://github.com/JAMGroup-Debugger/jamgroup-debugger/issues) tab.
+
+## License
+[Add license information if applicable, e.g., MIT License - check GitHub's licensing options.]
+
+---
+
+*Last updated: June 14, 2025*
